@@ -1,5 +1,5 @@
 # WebSocket-Chat
-https://github.com/AkhmatovNurbek/WebSocket-Chat/blob/master/src/main/resources/img.png
+<img src="https://github.com/AkhmatovNurbek/WebSocket-Chat/blob/master/src/main/resources/img.png
 
 ## Getting Started
 
