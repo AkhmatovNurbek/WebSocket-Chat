@@ -1,4 +1,6 @@
 # WebSocket-Chat
+https://github.com/AkhmatovNurbek/WebSocket-Chat/blob/master/src/main/resources/img.png
+
 ## Getting Started
 
 ### Dependency management tools
