@@ -45,6 +45,3 @@ Feel free to use whichever logging framework you desire and use the correspondin
 
 If you want to get started, take a look at the SimpleLogger [example](https://github.com/TooTallNate/Java-WebSocket/wiki/SimpleLogger-example).
 
-### Standalone jar
-
-If you do not use any dependency management tool, you can find the latest standalone jar [here](https://github.com/TooTallNate/Java-WebSocket/releases/latest).
