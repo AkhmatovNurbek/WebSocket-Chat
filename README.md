@@ -1,6 +1,6 @@
 # WebSocket-Chat
- <img align="left" src="https://github.com/AkhmatovNurbek/WebSocket-Chat/blob/master/src/main/resources/img_1.png" alt="java" height="420px"/>
-  <img align="left" src="https://github.com/AkhmatovNurbek/WebSocket-Chat/blob/master/src/main/resources/img.png" alt="java1" height="420px"/> 
+ <img align="left" src="https://github.com/AkhmatovNurbek/WebSocket-Chat/blob/master/src/main/resources/img_1.png" alt="java" height="430px"/>
+  <img align="left" src="https://github.com/AkhmatovNurbek/WebSocket-Chat/blob/master/src/main/resources/img.png" alt="java1" height="430px"/> 
 
  
  
