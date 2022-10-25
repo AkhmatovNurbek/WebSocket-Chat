@@ -43,5 +43,5 @@ Exceptions are using the log level `ERROR` and debug logging will be done with l
 
 Feel free to use whichever logging framework you desire and use the corresponding [binding](https://mvnrepository.com/artifact/org.slf4j) in your dependency management.
 
-If you want to get started, take a look at the SimpleLogger [example](https://github.com/TooTallNate/Java-WebSocket/wiki/SimpleLogger-example).
+If you want to get started, take a look at the SimpleLogger [example](https://www.slf4j.org/api/org/slf4j/simple/SimpleLogger.html).
 
