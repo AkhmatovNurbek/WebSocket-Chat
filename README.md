@@ -1,5 +1,5 @@
 # WebSocket-Chat
- <img align="left" src="https://github.com/AkhmatovNurbek/WebSocket-Chat/blob/master/src/main/resources/img.png" alt="java" height="80px"/> 
+ <img align="left" src="https://github.com/AkhmatovNurbek/WebSocket-Chat/blob/master/src/main/resources/img.png" alt="java" height="250px"/> 
  
  
 
